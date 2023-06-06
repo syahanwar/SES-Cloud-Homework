@@ -1,4 +1,4 @@
-<h1>SES Cloud Enigeering homework</h1>
+<h1>SES Cloud Engineering homework</h1>
 
 <h2>Task 1</h2>
 
@@ -12,6 +12,6 @@ You are to create a repository using your Github account and create a new <b>pub
 
 Inside your public repository. It must contain
 
-1. URL to access your deployed website for task 1. 
-2. Architecture diagram for task 1.
-3. Architecture diagram for Task 2 of the homework.
+1. URL to access your deployed website for task 1
+2. Architecture diagram for task 1
+3. Architecture diagram for Task 2 of the homework
