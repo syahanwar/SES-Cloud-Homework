@@ -12,7 +12,6 @@ You are to create a repository using your Github account and create a new <b>pub
 
 Inside your public repository. It must contain
 
-1. URL to access your deployed website for question 1
-2. Architecture diagram for question 1
-3. Dockerfile for question 3
-4. Architecture diagram for question 4  of the homework
+1. URL to access your deployed website for module 1
+2. Architecture diagram for module 1
+3. Architecture diagram for module 2 
