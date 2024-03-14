@@ -10,8 +10,8 @@ You are to create a repository using your Github account and create a new <b>pub
 
 <h2>What to submit</h2>
 
-Inside your public repository. It must contain
+For Task 1 in your public repository. It must contain
 
 1. URL to access your deployed website for module 1
 2. Architecture diagram for module 1
-3. Architecture diagram for module 2 
+
